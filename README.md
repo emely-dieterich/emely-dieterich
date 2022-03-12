@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @emely-dieterich
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning php
